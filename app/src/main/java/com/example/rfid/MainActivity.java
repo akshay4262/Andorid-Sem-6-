@@ -14,8 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText Username;
     private EditText Password;
     private Button login;
-    private TextView info;
-    private int counter = 5;
+    private int counter = 0;
 
 
 
@@ -44,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         }else{
             counter--;
-            info.setText("Number of attempts remaining :" + String.valueOf(counter));
+
             if(counter == 0){
                 login.setEnabled(false);
             }
