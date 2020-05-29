@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void checker(String un, String up){
         if((un.equals("rfid")) && (up.equals("ford"))){
-            Intent intent = new Intent(MainActivity.this, ret.class);
+            Intent intent = new Intent(MainActivity.this, Screentwo.class);
             startActivity(intent);
         }else{
             counter--;
