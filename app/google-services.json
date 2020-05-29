@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "921860829035",
+    "firebase_url": "https://rfid-minor.firebaseio.com",
+    "project_id": "rfid-minor",
+    "storage_bucket": "rfid-minor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921860829035:android:187561ee0654662554662e",
+        "android_client_info": {
+          "package_name": "com.example.rfid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921860829035-qt7rrqrs8hgugtnkd0ocra4s21tp80lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rfid",
+            "certificate_hash": "d5ee7a452eabecd71590db84213d417bf62acb3e"
+          }
+        },
+        {
+          "client_id": "921860829035-gklb6f6td37aiuk65ugp0djqop0fijuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6lf4XMr1wnNVa3mkwRc27JwUxJ-HDMVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921860829035-gklb6f6td37aiuk65ugp0djqop0fijuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
