@@ -23,7 +23,7 @@ public class Screentwo extends AppCompatActivity {
         att.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Screentwo.this, ret.class);
+                Intent intent = new Intent(Screentwo.this, test.class);
                 startActivity(intent);
             }
         });
